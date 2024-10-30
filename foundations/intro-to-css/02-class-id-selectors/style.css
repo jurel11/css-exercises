@@ -1,0 +1,20 @@
+/* Reusable */
+.adjust-fs {
+  font-size: 24px;
+}
+
+/* Style Start */
+.odd {
+  background-color: hsl(354, 80%, 73%);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+#four {
+  background-color: #c3ff68;
+  font-weight: bold;
+}
